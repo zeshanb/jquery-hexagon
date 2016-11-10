@@ -12,3 +12,6 @@ programmer to have computer create inverted triangle when user enters two number
 <h2>How to use</h2>
 <p>Enter a number less than 100 to create a hexigon using "*" charectors.</p>
 
+<h3>References</h3>
+JavaScript Definitive Guide
+http://shop.oreilly.com/product/9780596805531.do
