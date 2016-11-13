@@ -14,6 +14,7 @@ programmer to have computer create inverted triangle when user enters two number
 <ol>
 <li>Download this repo</li>
 <li>Extract Archive</li>
+<li>Open index.html in modern web browser</li>
 <li>Enter a number less than 400</li>
 <li>Press "Update Number"</li>
 <li>Modify for your usage</li>
